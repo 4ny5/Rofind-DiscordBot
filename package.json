@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "noblox.js": "github:noblox/noblox.js",
+    "node-fetch": "^2.6.1",
+    "parse-ms": "^3.0.0",
+    "pretty-ms": "^7.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "snekfetch": "^4.0.4"
+  }
+}
