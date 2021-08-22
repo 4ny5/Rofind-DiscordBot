@@ -6,8 +6,9 @@ also the profile of the user.
 
 
 Now theres 2 files one named "config.json" inside of the config file 
+=
 and theres another one named "ChannelID.json" inside of the data file
-
+=
 
 now the data is for if someone wants to make a feedback about 
 the bot then that message will be sent to ur discord server to grab your channel id 
